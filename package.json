@@ -1,0 +1,30 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "TODO List",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sundara N",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "csrf": "^3.0.4",
+    "es6-promise": "^4.0.5",
+    "express": "^4.14.1",
+    "express-error-handler": "^1.1.0",
+    "express-session": "^1.15.0",
+    "jade": "^1.11.0",
+    "jquery": "^3.1.1",
+    "less-middleware": "^2.2.0",
+    "method-override": "^2.3.7",
+    "mongodb": "^2.2.22",
+    "mongoose": "^4.8.1",
+    "mongoskin": "^2.1.0",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-twitter": "^1.0.4"
+  }
+}
